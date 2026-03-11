@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
         <footer className='flex flex-col center mt-10 mb-5'>
             <a href='https://github.com/jaybutle'>
-                Made By Jay Butle .
+                Made By ->> Jay Butle .
 
             </a>
         </footer>
