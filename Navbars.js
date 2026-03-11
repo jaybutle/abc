@@ -17,7 +17,7 @@ const Navbar = () => {
               {about && (
                 <li className='ml-10'>
                   <Link to = "about">
-                    About
+                    Aboutme
                   </Link>
                 </li>
               )}
@@ -25,7 +25,7 @@ const Navbar = () => {
               {projects && (
                 <li className='ml-10'>
                   <Link to = "/projects">
-                    projects
+                    myprojects
                   </Link>
                 </li>
               )}
@@ -33,7 +33,7 @@ const Navbar = () => {
               {skills && (
                 <li className='ml-10'>
                   <Link to = "/skills">
-                    skills
+                    myskills
                   </Link>
                 </li>
               )}
@@ -41,7 +41,7 @@ const Navbar = () => {
               {contact && (
                 <li className='ml-10'>
                   <Link to = "/contact ">
-                    contact
+                    contactme
                   </Link>
                 </li>
               )} 
